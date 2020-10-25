@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NandKumarGangai/image-gallary/static/css/main.b0e393fc.chunk.css",
+    "main.js": "/NandKumarGangai/image-gallary/static/js/main.393cf2f9.chunk.js",
+    "main.js.map": "/NandKumarGangai/image-gallary/static/js/main.393cf2f9.chunk.js.map",
+    "runtime-main.js": "/NandKumarGangai/image-gallary/static/js/runtime-main.8615d40a.js",
+    "runtime-main.js.map": "/NandKumarGangai/image-gallary/static/js/runtime-main.8615d40a.js.map",
+    "static/js/2.0e131de3.chunk.js": "/NandKumarGangai/image-gallary/static/js/2.0e131de3.chunk.js",
+    "static/js/2.0e131de3.chunk.js.map": "/NandKumarGangai/image-gallary/static/js/2.0e131de3.chunk.js.map",
+    "index.html": "/NandKumarGangai/image-gallary/index.html",
+    "precache-manifest.2aa34c4be7d77573a4dfb719c67b3279.js": "/NandKumarGangai/image-gallary/precache-manifest.2aa34c4be7d77573a4dfb719c67b3279.js",
+    "service-worker.js": "/NandKumarGangai/image-gallary/service-worker.js",
+    "static/css/main.b0e393fc.chunk.css.map": "/NandKumarGangai/image-gallary/static/css/main.b0e393fc.chunk.css.map",
+    "static/js/2.0e131de3.chunk.js.LICENSE.txt": "/NandKumarGangai/image-gallary/static/js/2.0e131de3.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/NandKumarGangai/image-gallary/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8615d40a.js",
+    "static/js/2.0e131de3.chunk.js",
+    "static/css/main.b0e393fc.chunk.css",
+    "static/js/main.393cf2f9.chunk.js"
+  ]
+}
